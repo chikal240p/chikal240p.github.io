@@ -2,8 +2,28 @@ body{
 	background: grey;
 	color: black;
 }
+
 p{
 	border:6px solid white;
 }
 
-<h1 style="color:MediumSeaGreen;">Pengalaman PJJ Selama Pandemi Covid-19</h1>
+<h1 style="color:MediumSeaGreen;">
+Pengalaman PJJ Selama Pandemi Covid-19
+</h1>
+
+p {
+
+  margin: 30px 55px 80px 110px;
+
+}
+div {
+
+  padding-top: 45px;
+
+  padding-right: 80px;
+
+  padding-bottom: 45px;
+
+  padding-left: 80px;
+
+} 
