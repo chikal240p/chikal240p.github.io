@@ -2,3 +2,6 @@ body{
 	background: grey;
 	color: black;
 }
+p{
+	border:6px solid black;
+}
