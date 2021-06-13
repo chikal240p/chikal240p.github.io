@@ -1,0 +1,35 @@
+body{
+	background: url('bg baru.jpg');
+	color: #fff;
+}
+h1 {
+   color: white;
+}
+h2 {
+   color: white;
+}
+p {
+   color: #F0EC57;
+}
+p{
+	border: 
+	5px solid white;
+}
+p{
+	margin: 25px 
+	50px 
+	75px 
+	100px;
+}
+table{
+	margin: 25px 
+	50px 
+	75px 
+	100px;
+}
+img{
+	margin: 25px 
+	50px 
+	75px 
+	100px;
+}
